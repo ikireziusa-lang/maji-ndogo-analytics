@@ -30,7 +30,7 @@ These functions demonstrate how simple Python tools can make agricultural record
 
 ## 5. Project Evidence
 
-Screenshots of the executed code and its actual output will be added here after testing the project.
+Screenshots of the executed code and its actual output were added here after testing the project.
 
 - Season summary
 - Field harvest records
