@@ -30,7 +30,31 @@ These functions demonstrate how simple Python tools can make agricultural record
 
 ## 5. Project Evidence
 
-Screenshots of the executed code and its actual output were added here after testing the project.
+The screenshots below show examples of the Python functions running and their outputs.
+
+### Total Harvest
+
+![Total harvest calculation](images/01-total-harvest.png)
+
+### Total Expenses
+
+![Total expenses calculation](images/02-total-expenses.png)
+
+### Revenue
+
+![Revenue calculation](images/03-revenue.png)
+
+### Profit
+
+![Profit calculation](images/04-profit.png)
+
+### Season Summary
+
+![Season summary output](images/05-season-summary.png)
+
+### Harvest List Analysis
+
+![Harvest list analysis output](images/06-harvest-list-analysis.png)
 
 - Season summary
 - Field harvest records
