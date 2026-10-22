@@ -34,27 +34,12 @@ The screenshots below show examples of the Python functions running and their ou
 
 ### Total Harvest
 
-![Total harvest calculation](images/01-total-harvest.png)
-
-### Total Expenses
-
-![Total expenses calculation](images/02-total-expenses.png)
-
-### Revenue
-
-![Revenue calculation](images/03-revenue.png)
-
-### Profit
-
-![Profit calculation](images/04-profit.png)
-
-### Season Summary
-
-![Season summary output](images/05-season-summary.png)
-
-### Harvest List Analysis
-
-![Harvest list analysis output](images/06-harvest-list-analysis.png)
+Total harvest	01-total-harvest.png
+Total expenses	02-total-expenses.png
+Revenue	03-revenue.png
+Profit	04-profit.png
+Season summary	05-season-summary.png
+Harvest list analysis	06-harvest-list-analysis.png
 
 - Season summary
 - Field harvest records
