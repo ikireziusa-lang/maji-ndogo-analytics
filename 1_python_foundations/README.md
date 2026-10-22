@@ -27,23 +27,32 @@ The project implements reusable Python functions to:
 ## 4. The “So What?”
 
 These functions demonstrate how simple Python tools can make agricultural record-keeping more organized and reduce repetitive calculations. The same principles can support more advanced agricultural data analysis in later projects.
-
 ## 5. Project Evidence
 
 The screenshots below show examples of the Python functions running and their outputs.
 
 ### Total Harvest
 
-Total harvest	01-total-harvest.png
-Total expenses	02-total-expenses.png
-Revenue	03-revenue.png
-Profit	04-profit.png
-Season summary	05-season-summary.png
-Harvest list analysis	06-harvest-list-analysis.png
+![Total harvest calculation and output](images/01-total-harvest.png.png)
 
-- Season summary
-- Field harvest records
-- Harvest analysis
-- Reusable function tests
+### Total Expenses
+
+![Total expenses calculation and output](images/02-total-expenses.png.png)
+
+### Revenue
+
+![Revenue calculation and output](images/03-revenue.png.png)
+
+### Profit
+
+![Profit calculation and output](images/04-profit.png.png)
+
+### Season Summary
+
+![Season summary output](images/05-season-summary.png.png)
+
+### Harvest List Analysis
+
+![Harvest list analysis output](images/06-harvest-list-analysis.png..png)
 
 
